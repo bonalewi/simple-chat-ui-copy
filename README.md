@@ -1,5 +1,3 @@
-# Simple Chat UI
+# HW1 HAI
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/sajadhsm/pen/odaBdd](https://codepen.io/sajadhsm/pen/odaBdd).
-
-Simple Chat UI with a stupid bot randomly respond to your messages!
+Simple chat UI before any AI support
